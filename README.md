@@ -12,7 +12,6 @@
 ## Dev links collections
 - [frontdesk](https://github.com/miripiruni/frontdesk)
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
-- [Essential JavaScript Links](https://gist.github.com/ericelliott/d576f72441fc1b27dace)
 
 ## Educational resources
 - [bento.io](https://www.bento.io/) - A guided tour through curated, free coding tutorials on the web
@@ -20,10 +19,15 @@
 - [codecademy](http://www.codecademy.com/)
 - [Treehouse](http://teamtreehouse.com/)
 - [coursera](https://www.coursera.org/)
+- [tagtree.io](http://tagtree.io/)
 
 ## JavaScript tutorials
 - [w3schools javascript](http://www.w3schools.com/js/default.asp)
 - [MDN javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## JavaScript links collections
+- [Essential JavaScript Links](https://gist.github.com/ericelliott/d576f72441fc1b27dace)
+- [js-thread](https://github.com/ID25/js-thread)
 
 ## JavaScript references materials
 - [JavaScript-Garden](http://bonsaiden.github.io/JavaScript-Garden/) - JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language
@@ -48,12 +52,14 @@
 ## JavaScript learning resources
 - [Sorax](https://www.youtube.com/playlist?list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem) - Screencast (russian)
 - [javascript.ru](http://javascript.ru/) - Tutorial, courses (russian)
+- [tagtree.io](http://tagtree.io/)
 
 ## Javascript Books
 - [Free books](http://jsbooks.revolunet.com/) - The best free JavaScript books
 - [Eloquent Javascript](http://eloquentjavascript.net/) ([ru](http://habrahabr.ru/post/240219/))
 - [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) ([ru](http://largescalejs.ru/))
 - [Сюрреализм на JavaScript](http://bakhirev.biz/book/#SDPcG) - (russian)
+- [speaking javascript](http://speakingjs.com/es5/)
 
 ## CSS references materials
 - [CSS Reference](http://tympanus.net/codrops/css_reference/) - An extensive CSS reference with all the important properties and info to learn CSS from the basics
