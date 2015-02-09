@@ -14,7 +14,7 @@
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Essential JavaScript Links](https://gist.github.com/ericelliott/d576f72441fc1b27dace)
 
-## Educational resources.
+## Educational resources
 - [bento.io](https://www.bento.io/) - A guided tour through curated, free coding tutorials on the web
 - [codeschool](https://www.codeschool.com/)
 - [codecademy](http://www.codecademy.com/)
@@ -54,6 +54,17 @@
 - [Eloquent Javascript](http://eloquentjavascript.net/) ([ru](http://habrahabr.ru/post/240219/))
 - [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) ([ru](http://largescalejs.ru/))
 - [Сюрреализм на JavaScript](http://bakhirev.biz/book/#SDPcG) - (russian)
+
+## CSS references materials
+- [CSS Reference](http://tympanus.net/codrops/css_reference/) - An extensive CSS reference with all the important properties and info to learn CSS from the basics
+- [css-tricks almanac](http://css-tricks.com/almanac/)
+- [csstriggers](http://csstriggers.com/) - A game of layout, paint, and composite.
+
+## Style Guides
+- [styleguides.io](http://styleguides.io/) - Website Style Guide Resources
+
+## Polyfills
+- [polyfill.io](https://cdn.polyfill.io/v1/docs/)
 
 ## Code playgrounds
 - [Codepen](http://codepen.io/) - JavaScript, HTML and CSS playground
