@@ -60,6 +60,7 @@
 - [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) ([ru](http://largescalejs.ru/))
 - [Сюрреализм на JavaScript](http://bakhirev.biz/book/#SDPcG) - (russian)
 - [speaking javascript](http://speakingjs.com/es5/)
+- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md?utm_source=javascriptweekly&utm_medium=email)
 
 ## CSS references materials
 - [CSS Reference](http://tympanus.net/codrops/css_reference/) - An extensive CSS reference with all the important properties and info to learn CSS from the basics
