@@ -24,6 +24,7 @@
 ## JavaScript tutorials
 - [w3schools javascript](http://www.w3schools.com/js/default.asp)
 - [MDN javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [babeljs.io/](https://babeljs.io/) - javascript future
 
 ## JavaScript links collections
 - [Essential JavaScript Links](https://gist.github.com/ericelliott/d576f72441fc1b27dace)
@@ -85,4 +86,5 @@
 - [RegExr](http://regexr.com/) - Regular expression playground
 - [Gist github](https://gist.github.com/) - Code snippets. (Synchronized with SassMeister)
 - [GitLab snippets](https://gitlab.com/snippets) - Code snippets
-- [ES6 fiddle](http://www.es6fiddle.net/)
+- [ES6 fiddle](http://www.es6fiddle.net/) - es6 playground
+- [babeljs.io/repl](http://babeljs.io/repl/) - es6 playground
