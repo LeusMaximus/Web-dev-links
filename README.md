@@ -9,9 +9,11 @@
 - [overapi](http://overapi.com/) - Cheat Sheets collections
 - [uptodate.frontendrescue.org](http://uptodate.frontendrescue.org/) - HOW TO KEEP UP TO DATE ON FRONT-END TECHNOLOGIES
 
-## Dev links collections
+## Frontend info
 - [frontdesk](https://github.com/miripiruni/frontdesk)
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
+- [frontend-stuff](https://github.com/moklick/frontend-stuff)
+- [frontend-guidelines](https://github.com/bendc/frontend-guidelines)
 
 ## Educational resources
 - [bento.io](https://www.bento.io/) - A guided tour through curated, free coding tutorials on the web
