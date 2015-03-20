@@ -2,6 +2,9 @@
 
 - [General information](#general-info)
 - [JavaScript](#javascript-info)
+- [CSS](#css-info)
+- [Polyfills](#polyfill-info)
+- [Code playgrounds](#playgrounds-info)
 
 <div id="general-info"></div>
 ## General information
@@ -89,6 +92,7 @@
 - [High Performance JavaScript (Nickolas C. Zakas). Высокопроизводительный Javascript (Николас Закас)](http://vstarkov.ru/high-performance-javascript/)
 
 
+<div id="css-info"></div>
 ## CSS
 
 ### CSS references materials
@@ -96,14 +100,16 @@
 - [css-tricks almanac](http://css-tricks.com/almanac/)
 - [csstriggers](http://csstriggers.com/) - A game of layout, paint, and composite.
 
-
 ### Style Guides
 - [styleguides.io](http://styleguides.io/) - Website Style Guide Resources
 
+
+<div id="polyfills-info"></div>
 ## Polyfills
 - [polyfill.io](https://cdn.polyfill.io/v1/docs/)
 
 
+<div id="playgrounds-info"></div>
 ## Code playgrounds
 - [Codepen](http://codepen.io/) - JavaScript, HTML and CSS playground
 - [JS Bin](http://jsbin.com/?html,output) - JavaScript, HTML and CSS playground
