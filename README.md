@@ -3,7 +3,7 @@
 - [General information](#general-info)
 - [JavaScript](#javascript-info)
 - [CSS](#css-info)
-- [Polyfills](#polyfill-info)
+- [Polyfills](#polyfills-info)
 - [Code playgrounds](#playgrounds-info)
 
 <div id="general-info"></div>
@@ -84,7 +84,7 @@
 
 ### Javascript Books
 - [Free books](http://jsbooks.revolunet.com/) - The best free JavaScript books
-- [Eloquent Javascript](http://eloquentjavascript.net/) ([ru](http://habrahabr.ru/post/240219/))
+- [Eloquent Javascript](http://eloquentjavascript.net/) ([ru](http://habrahabr.ru/post/240219/)) ([ru pdf, ePub, mobi](http://habrahabr.ru/post/253101/))
 - [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) ([ru](http://largescalejs.ru/))
 - [Сюрреализм на JavaScript](http://bakhirev.biz/book/#SDPcG) - (russian)
 - [speaking javascript](http://speakingjs.com/es5/)
