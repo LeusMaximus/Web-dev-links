@@ -5,6 +5,7 @@
 - [CSS](#css-info)
 - [Polyfills](#polyfills-info)
 - [Code playgrounds](#playgrounds-info)
+- [libraries.io](http://libraries.io/) - Open Source Libraries
 
 <div id="general-info"></div>
 ## General information
@@ -84,12 +85,13 @@
 
 ### Javascript Books
 - [Free books](http://jsbooks.revolunet.com/) - The best free JavaScript books
-- [Eloquent Javascript](http://eloquentjavascript.net/) ([ru](http://habrahabr.ru/post/240219/)) ([ru pdf, ePub, mobi](http://habrahabr.ru/post/253101/))
+- [Eloquent Javascript](http://eloquentjavascript.net/) ([ru online](http://habrahabr.ru/post/240219/)) ([ru pdf, ePub, mobi](http://habrahabr.ru/post/253101/))
 - [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) ([ru](http://largescalejs.ru/))
 - [Сюрреализм на JavaScript](http://bakhirev.biz/book/#SDPcG) - (russian)
 - [speaking javascript](http://speakingjs.com/es5/)
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md?utm_source=javascriptweekly&utm_medium=email)
 - [High Performance JavaScript (Nickolas C. Zakas). Высокопроизводительный Javascript (Николас Закас)](http://vstarkov.ru/high-performance-javascript/)
+- [Human Javascript](http://read.humanjavascript.com/ch00-foreword.html)
 
 
 <div id="css-info"></div>
@@ -102,6 +104,9 @@
 
 ### Style Guides
 - [styleguides.io](http://styleguides.io/) - Website Style Guide Resources
+
+### CSS style buttons
+- [inspiration-button-styles-effects](http://tympanus.net/codrops/2015/02/26/inspiration-button-styles-effects/)
 
 
 <div id="polyfills-info"></div>
