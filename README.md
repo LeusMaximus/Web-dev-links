@@ -1,13 +1,12 @@
 # Web-dev-links
 
 - [General information](#general-information)
-- [JavaScript](#javascript-info)
-- [CSS](#css-info)
-- [Polyfills](#polyfills-info)
-- [Code playgrounds](#playgrounds-info)
+- [JavaScript](#javascript)
+- [CSS](#css)
+- [Polyfills](#polyfills)
+- [Code playgrounds](#code-playgrounds)
 - [libraries.io](http://libraries.io/) - Open Source Libraries
 
-<div id="general-info"></div>
 ## General information
 
 ### General web resources
@@ -39,7 +38,6 @@
 - [coursera](https://www.coursera.org/)
 - [tagtree.io](http://tagtree.io/)
 
-<div id="javascript-info"></div>
 ## JavaScript
 
 ### JavaScript tutorials
@@ -94,7 +92,6 @@
 - [Human Javascript](http://read.humanjavascript.com/ch00-foreword.html)
 
 
-<div id="css-info"></div>
 ## CSS
 
 ### CSS references materials
@@ -109,12 +106,10 @@
 - [inspiration-button-styles-effects](http://tympanus.net/codrops/2015/02/26/inspiration-button-styles-effects/)
 
 
-<div id="polyfills-info"></div>
 ## Polyfills
 - [polyfill.io](https://cdn.polyfill.io/v1/docs/)
 
 
-<div id="playgrounds-info"></div>
 ## Code playgrounds
 - [Codepen](http://codepen.io/) - JavaScript, HTML and CSS playground
 - [JS Bin](http://jsbin.com/?html,output) - JavaScript, HTML and CSS playground
