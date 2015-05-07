@@ -1,6 +1,6 @@
 # Web-dev-links
 
-- [General information](#general-info)
+- [General information](#general-information)
 - [JavaScript](#javascript-info)
 - [CSS](#css-info)
 - [Polyfills](#polyfills-info)
