@@ -17,6 +17,7 @@
 - [dev docs](http://devdocs.io/) - A lot of documentation
 - [overapi](http://overapi.com/) - Cheat Sheets collections
 - [uptodate.frontendrescue.org](http://uptodate.frontendrescue.org/) - HOW TO KEEP UP TO DATE ON FRONT-END TECHNOLOGIES
+- [wwwhere](http://wwwhere.io/) - wwwhere is a curated list of tools and resources for people who make websites.
 
 
 ### Frontend info
@@ -24,6 +25,7 @@
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [frontend-stuff](https://github.com/moklick/frontend-stuff)
 - [frontend-guidelines](https://github.com/bendc/frontend-guidelines)
+- [awesome lists](https://github.com/sindresorhus/awesome)
 
 
 ### Blogs
