@@ -18,6 +18,7 @@
 - [overapi](http://overapi.com/) - Cheat Sheets collections
 - [uptodate.frontendrescue.org](http://uptodate.frontendrescue.org/) - HOW TO KEEP UP TO DATE ON FRONT-END TECHNOLOGIES
 - [wwwhere](http://wwwhere.io/) - wwwhere is a curated list of tools and resources for people who make websites.
+- [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists
 
 
 ### Frontend info
